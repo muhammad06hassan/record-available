@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.env
+
+# Input files (local-only)
+*.csv
+
+# Input JSON folder(s) (local-only)
+json/
+jsons/
+input_json/
+input_jsons/
+data/
+datasets/
+
+# Outputs / results (local-only)
+output/
+outputs/
+result/
+results/
+tmp/
+*.log
+*.zip
+
